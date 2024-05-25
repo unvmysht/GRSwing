@@ -1,0 +1,23 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+	background: white url("./assets/img/bg.gif") repeat top center;
+}
+.main {
+	background: #f0eed8;
+}
+.main-banner {
+	background: white url("./assets/img/banner11.jpg") no-repeat top center ;
+	height: 200px;
+	background-size: cover;
+}
+.nav-bar {
+	.navbar-brand {
+		color: #ffffff;
+		font-family: Times;
+	}
+	background: #530D0B;
+	.nav-link {
+		color: #f0eed8;
+	}
+}
